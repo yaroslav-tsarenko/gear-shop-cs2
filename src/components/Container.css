@@ -1,0 +1,85 @@
+.cheapest-cs2-skins-958x575web-icon {
+  height: 167.4px;
+  flex: 1;
+  position: relative;
+  border-radius: 8px;
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+}
+.container66 {
+  align-self: stretch;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 61px;
+}
+.february-2024 {
+  position: relative;
+  letter-spacing: 0.26px;
+  line-height: 150%;
+  display: inline-block;
+  min-width: 122px;
+}
+.container68 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.best-cs2-skins,
+.weapon-skins {
+  margin: 0;
+}
+.best-cs2-skins-container {
+  position: relative;
+  line-height: 135%;
+}
+.container69 {
+  overflow: hidden;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 16px;
+  color: #fafafa;
+}
+.container65,
+.container67,
+.container69,
+.link5 {
+  display: flex;
+  flex-direction: column;
+}
+.container67 {
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container65,
+.link5 {
+  align-items: center;
+}
+.link5 {
+  align-self: stretch;
+  justify-content: center;
+  gap: 12px;
+}
+.container65 {
+  flex: 1;
+  justify-content: flex-start;
+  padding: 8px 8px 8.1px;
+  box-sizing: border-box;
+  min-width: 168px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 14px;
+  color: #9a9a9a;
+  font-family: Inter;
+}
+@media screen and (max-width: 450px) {
+  .container66 {
+    padding-left: 20px;
+    padding-right: 20px;
+    box-sizing: border-box;
+  }
+}

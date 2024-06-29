@@ -1,0 +1,343 @@
+.add-voucher {
+  font-size: 0;
+  text-decoration: underline;
+}
+.get-100-off-container {
+  position: relative;
+  line-height: 28px;
+  white-space: nowrap;
+}
+.ticker {
+  align-self: stretch;
+  background-color: #2e2cac;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 14px 20px 8px;
+  text-align: center;
+  font-size: 16px;
+  color: #fff;
+  font-family: Inter;
+}
+.cs2gearshop-transparent-1-icon {
+  height: 45px;
+  width: 171px;
+  position: relative;
+  object-fit: contain;
+}
+.link {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 9.5px 7px;
+  box-sizing: border-box;
+  min-width: 186px;
+}
+.store {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 42px;
+}
+.link1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 21px 24px;
+}
+.sell {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 28px;
+}
+.link2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 21px 24px;
+}
+.giveaway {
+  position: relative;
+  line-height: 22px;
+  font-weight: 500;
+  display: inline-block;
+  min-width: 75px;
+}
+.container,
+.link3 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.link3 {
+  padding: 21px 24px;
+}
+.container {
+  max-width: 650px;
+}
+.icon {
+  width: 16px;
+  height: 16px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.container3 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.button,
+.container2 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.button {
+  border-radius: 4px;
+  flex-direction: column;
+  padding: 12px;
+  box-sizing: border-box;
+  min-width: 40px;
+  max-width: 599.88px;
+}
+.container4 {
+  margin: 0;
+  width: 16px;
+  height: 16px;
+}
+.button-menu {
+  border-radius: 4px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 12px;
+  box-sizing: border-box;
+  min-width: 40px;
+  max-width: 599.88px;
+}
+.ussvg-icon {
+  height: 18px;
+  width: 18px;
+  position: relative;
+  border-radius: 9px;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.container7 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 8px 4px 8px 0;
+}
+.icon1 {
+  height: 14px;
+  width: 12.3px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.container6,
+.container8,
+.container9 {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container6,
+.container8 {
+  flex-direction: column;
+}
+.container8 {
+  margin: 0 !important;
+  position: absolute;
+  width: 26.74%;
+  top: 6px;
+  right: -0.22%;
+  left: 73.48%;
+  padding: 4px 0 6px;
+  box-sizing: border-box;
+}
+.container6 {
+  padding: 0 16px 0 8px;
+  position: relative;
+}
+.container10 {
+  height: 40px;
+  flex: 1;
+  font-family: "Sofia Sans";
+  font-size: 16px;
+  color: #9a9a9a;
+  width: auto;
+}
+.container5 {
+  width: 119.7px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 16px;
+}
+.container13,
+.margin,
+.symbol {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-width: 16px;
+}
+.symbol {
+  width: 16px;
+  position: relative;
+  line-height: 16px;
+  text-transform: capitalize;
+}
+.container13,
+.margin {
+  flex-direction: row;
+}
+.margin {
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 8px 0 0;
+  box-sizing: border-box;
+  min-width: 24px;
+}
+.log-in-with {
+  position: relative;
+  font-size: 14px;
+  letter-spacing: 0.02em;
+  line-height: 150%;
+  display: inline-block;
+  font-family: Inter;
+  min-width: 125px;
+  white-space: nowrap;
+}
+.container12 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  gap: 1.3px;
+}
+.button1,
+.container1,
+.container11 {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+.button1 {
+  border-radius: 4px;
+  background-color: #ca5a2a;
+  flex-direction: column;
+  justify-content: center;
+  padding: 9.3px 16px 9.7px;
+  box-sizing: border-box;
+  min-width: 123px;
+  max-width: 167.55px;
+}
+.container1,
+.container11 {
+  flex-direction: row;
+  justify-content: flex-start;
+}
+.container1 {
+  justify-content: flex-end;
+  padding: 0 0 0 813px;
+  box-sizing: border-box;
+  gap: 8px;
+  max-width: 100%;
+  text-align: center;
+  color: rgba(250, 250, 250, 0.8);
+  font-family: "Font Awesome 5 Brands";
+}
+.header,
+.header-desktop,
+.overlayblur {
+  align-self: stretch;
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.overlayblur {
+  backdrop-filter: blur(4px);
+  overflow: hidden;
+  flex-direction: row;
+  align-items: center;
+}
+.header,
+.header-desktop {
+  flex-direction: column;
+  align-items: flex-start;
+}
+.header {
+  background-color: #0c0c0c;
+  overflow: hidden;
+  padding: 0 120px;
+  box-sizing: border-box;
+}
+.header-desktop {
+  top: 0;
+  z-index: 99;
+  position: sticky;
+  text-align: left;
+  font-size: 16px;
+  color: #9a9a9a;
+  font-family: Inter;
+}
+@media screen and (max-width: 1625px) {
+  .log-in-with {
+    display: none;
+  }
+}
+@media screen and (max-width: 1275px) {
+  .container1,
+  .header {
+    padding-left: 406px;
+    box-sizing: border-box;
+  }
+  .header {
+    padding-left: 60px;
+    padding-right: 60px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .button,
+  .button-menu,
+  .container {
+    max-width: 100%;
+  }
+  .container1,
+  .header {
+    padding-left: 203px;
+    box-sizing: border-box;
+  }
+  .header {
+    padding-left: 30px;
+    padding-right: 30px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .container1 {
+    padding-left: 20px;
+    box-sizing: border-box;
+  }
+}

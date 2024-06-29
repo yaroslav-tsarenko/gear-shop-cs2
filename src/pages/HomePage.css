@@ -1,0 +1,272 @@
+.container {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 20px 64px;
+  box-sizing: border-box;
+  background-image: url(/public/container1@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  max-width: 100%;
+}
+.trade-cs2-skins {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.container3 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 8px;
+}
+.latest-collections-easily,
+.safely,
+.upgrade-your-skins {
+  margin: 0;
+}
+.upgrade-your-skins-container {
+  position: relative;
+  line-height: 135%;
+}
+.container2,
+.container4 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container4 {
+  justify-content: flex-start;
+  padding: 0 3px;
+  font-size: 16px;
+  color: #9a9a9a;
+}
+.container2 {
+  flex: 1;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  min-width: 170px;
+  max-width: 100%;
+}
+.buy-skins {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 113px;
+}
+.container6 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 8px;
+}
+.latest-collections-easily1,
+.safely1,
+.upgrade-your-skins1 {
+  margin: 0;
+}
+.upgrade-your-skins-container1 {
+  position: relative;
+  line-height: 135%;
+}
+.container5,
+.container7 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container7 {
+  justify-content: flex-start;
+  padding: 0 3px;
+  font-size: 16px;
+  color: #9a9a9a;
+}
+.container5 {
+  flex: 1;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  min-width: 170px;
+  max-width: 100%;
+  margin-left: -1.3px;
+}
+.sell-skins {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  min-width: 114px;
+}
+.container9 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 8px;
+}
+.latest-collections-easily2,
+.safely2,
+.upgrade-your-skins2 {
+  margin: 0;
+}
+.upgrade-your-skins-container2 {
+  position: relative;
+  line-height: 135%;
+}
+.container10,
+.container8 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.container10 {
+  justify-content: flex-start;
+  padding: 0 3px;
+  font-size: 16px;
+  color: #9a9a9a;
+}
+.container8 {
+  flex: 1;
+  justify-content: center;
+  padding: 0 20px;
+  box-sizing: border-box;
+  min-width: 170px;
+  max-width: 100%;
+  margin-left: -1.3px;
+}
+.free-giveaways {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.container12 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 0 8px;
+}
+.latest-collections-easily3,
+.safely3,
+.upgrade-your-skins3 {
+  margin: 0;
+}
+.upgrade-your-skins-container3 {
+  position: relative;
+  line-height: 135%;
+}
+.container13 {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  padding: 0 3px;
+  font-size: 16px;
+  color: #9a9a9a;
+}
+.background,
+.container1,
+.container11 {
+  display: flex;
+  justify-content: center;
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.container11 {
+  flex: 1;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 20px;
+  min-width: 170px;
+  margin-left: -1.3px;
+}
+.background,
+.container1 {
+  flex-direction: row;
+}
+.container1 {
+  flex: 1;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  padding: 60px 0 64px;
+}
+.background {
+  align-self: stretch;
+  align-items: center;
+  padding: 0 120px;
+  text-align: center;
+  font-size: 24px;
+  color: #fafafa;
+  font-family: Inter;
+}
+.container-parent,
+.homepage {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.container-parent {
+  align-self: stretch;
+  max-width: 100%;
+}
+.homepage {
+  width: 100%;
+  position: relative;
+  background-color: #0c0c0c;
+  overflow-y: auto;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1200px) {
+  .container {
+    padding-bottom: 42px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .background {
+    padding-left: 60px;
+    padding-right: 60px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .container {
+    padding-bottom: 27px;
+    box-sizing: border-box;
+  }
+  .background {
+    padding-left: 30px;
+    padding-right: 30px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .buy-skins,
+  .free-giveaways,
+  .sell-skins,
+  .trade-cs2-skins {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

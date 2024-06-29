@@ -1,0 +1,23 @@
+.accuntpage {
+  width: 100%;
+  position: relative;
+  background-color: #0c0c0c;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: 120px;
+  line-height: normal;
+  letter-spacing: normal;
+}
+@media screen and (max-width: 1275px) {
+  .accuntpage {
+    gap: 60px;
+  }
+}
+@media screen and (max-width: 900px) {
+  .accuntpage {
+    gap: 30px;
+  }
+}

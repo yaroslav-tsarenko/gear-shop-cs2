@@ -1,0 +1,59 @@
+.refund-eligibility1,
+.refund-eligibility2 {
+  margin: 0;
+  font-size: inherit;
+  font-family: inherit;
+}
+.refund-eligibility2 {
+  padding-left: 43px;
+}
+.refund-eligibility1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 120%;
+  font-weight: 700;
+}
+.cancellations-made-after1,
+.if-cancellation-is,
+.refunds-will-be {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.eligibility-description,
+.refund-eligibility {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.eligibility-description {
+  align-self: stretch;
+  gap: 16px;
+  font-size: 16px;
+  font-family: "Work Sans";
+}
+.refund-eligibility {
+  width: 1680px;
+  gap: 32px;
+  max-width: 100%;
+  text-align: left;
+  font-size: 32px;
+  color: rgba(250, 250, 250, 0.8);
+  font-family: Archivo;
+}
+@media screen and (max-width: 900px) {
+  .refund-eligibility1 {
+    font-size: 26px;
+    line-height: 31px;
+  }
+  .refund-eligibility {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .refund-eligibility1 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+}

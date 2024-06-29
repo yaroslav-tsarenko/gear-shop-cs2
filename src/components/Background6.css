@@ -1,0 +1,762 @@
+.heading20 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.faq-title {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.to-start-trading2 {
+  align-self: stretch;
+  position: relative;
+  line-height: 22px;
+}
+.browse-the-available1,
+.log-in-using1,
+.select-the-items1 {
+  margin-bottom: 0;
+}
+.log-in-using-your-steam-accoun1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.ensure-your-steam1,
+.log-in-using-container1 {
+  align-self: stretch;
+  position: relative;
+  line-height: 135%;
+}
+.ensure-your-steam1 {
+  line-height: 22px;
+}
+.answer-wrapper,
+.container281 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: 4px;
+}
+.answer-wrapper {
+  font-size: 16px;
+  color: #9a9a9a;
+}
+.container281 {
+  max-width: 100%;
+}
+.heading21 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.title-row {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.on-cs2gearshop-you2 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  max-width: 100%;
+}
+.container282,
+.description-row {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.description-row {
+  flex-direction: row;
+  font-size: 16px;
+  color: #9a9a9a;
+}
+.container282 {
+  flex-direction: column;
+  gap: 4px;
+}
+.heading22 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.heading-wrapper15 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.yes-cs2gearshop-ensures1 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  max-width: 100%;
+}
+.container283,
+.yes-cs2gearshop-ensures-the-s-container {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.yes-cs2gearshop-ensures-the-s-container {
+  flex-direction: row;
+  font-size: 16px;
+  color: #9a9a9a;
+}
+.container283 {
+  flex-direction: column;
+  gap: 4px;
+}
+.heading23 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.heading-wrapper16 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.if-your-cs22 {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.container284,
+.if-your-cs2-trade-is-not-compl-frame {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.if-your-cs2-trade-is-not-compl-frame {
+  flex-direction: row;
+  font-size: 16px;
+  color: #9a9a9a;
+}
+.container284 {
+  flex-direction: column;
+  gap: 4px;
+}
+.heading24 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.heading-wrapper17 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.cs2gearshop-charges-a6 {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.container285,
+.cs2gearshop-charges-a-commissi-wrapper4 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.cs2gearshop-charges-a-commissi-wrapper4 {
+  flex-direction: row;
+  font-size: 16px;
+  color: #9a9a9a;
+}
+.container285 {
+  flex-direction: column;
+  gap: 4px;
+}
+.heading25 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.heading-wrapper18 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.cs2gearshop-charges-a7 {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.container286,
+.cs2gearshop-charges-a-commissi-wrapper5 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.cs2gearshop-charges-a-commissi-wrapper5 {
+  flex-direction: row;
+  font-size: 16px;
+  color: #9a9a9a;
+}
+.container286 {
+  flex-direction: column;
+  gap: 4px;
+}
+.heading26 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.heading-wrapper19 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.cs2gearshop-charges-a8 {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.container287,
+.cs2gearshop-charges-a-commissi-wrapper6 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.cs2gearshop-charges-a-commissi-wrapper6 {
+  flex-direction: row;
+  font-size: 16px;
+  color: #9a9a9a;
+}
+.container287 {
+  flex-direction: column;
+  gap: 4px;
+}
+.heading27 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.heading-wrapper20 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.cs2gearshop-charges-a9 {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.container288,
+.cs2gearshop-charges-a-commissi-wrapper7 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.cs2gearshop-charges-a-commissi-wrapper7 {
+  flex-direction: row;
+  font-size: 16px;
+  color: #9a9a9a;
+}
+.container288 {
+  flex-direction: column;
+  gap: 4px;
+}
+.heading28 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.heading-wrapper21 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.cs2-trades-on2 {
+  margin: 0;
+}
+.check-your-cs2gearshop1,
+.ensure-you-have1 {
+  margin-bottom: 0;
+}
+.check-your-cs2gearshop-account1 {
+  margin: 0;
+  font-family: inherit;
+  font-size: inherit;
+  padding-left: 21px;
+}
+.cs2-trades-on-container1 {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.container289,
+.cs2-trades-on-cs2gearshop-are-frame {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.cs2-trades-on-cs2gearshop-are-frame {
+  flex-direction: row;
+  font-size: 16px;
+  color: #9a9a9a;
+}
+.container289 {
+  flex-direction: column;
+  gap: 4px;
+}
+.heading29 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.heading-wrapper22 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.cs2gearshop-charges-a10 {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.container280,
+.container290,
+.cs2gearshop-charges-a-commissi-wrapper8 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.cs2gearshop-charges-a-commissi-wrapper8 {
+  flex-direction: row;
+  font-size: 16px;
+  color: #9a9a9a;
+}
+.container280,
+.container290 {
+  flex-direction: column;
+  gap: 4px;
+}
+.container280 {
+  border-radius: 8px;
+  gap: 16px;
+}
+.faqs1,
+.heading30 {
+  margin: 0;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.faqs1 {
+  min-width: 62px;
+}
+.heading30 {
+  flex: 1;
+  max-width: 100%;
+}
+.trading-title-row {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.to-start-trading3 {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.container292,
+.trading-description-row {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.trading-description-row {
+  flex-direction: row;
+  font-size: 16px;
+  color: #9a9a9a;
+}
+.container292 {
+  flex-direction: column;
+  gap: 4px;
+}
+.heading31 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.heading-wrapper23 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.on-cs2gearshop-you3 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  max-width: 100%;
+}
+.container293,
+.on-cs2gearshop-you-can-trade-container {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.on-cs2gearshop-you-can-trade-container {
+  flex-direction: row;
+  font-size: 16px;
+  color: #9a9a9a;
+}
+.container293 {
+  flex-direction: column;
+  gap: 4px;
+}
+.heading32 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.heading-wrapper24 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.yes-cs2gearshop-ensures2 {
+  flex: 1;
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  max-width: 100%;
+}
+.container294,
+.yes-cs2gearshop-ensures-the-s-frame {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.yes-cs2gearshop-ensures-the-s-frame {
+  flex-direction: row;
+  font-size: 16px;
+  color: #9a9a9a;
+}
+.container294 {
+  flex-direction: column;
+  gap: 4px;
+}
+.heading33 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.heading-wrapper25 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.if-your-cs23 {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.container295,
+.if-your-cs2-trade-is-not-compl-wrapper1 {
+  align-self: stretch;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.if-your-cs2-trade-is-not-compl-wrapper1 {
+  flex-direction: row;
+  font-size: 16px;
+  color: #9a9a9a;
+}
+.container295 {
+  flex-direction: column;
+  gap: 4px;
+}
+.heading34 {
+  margin: 0;
+  flex: 1;
+  position: relative;
+  font-size: inherit;
+  line-height: 29px;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+  max-width: 100%;
+}
+.heading-wrapper26 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.cs2gearshop-charges-a11 {
+  flex: 1;
+  position: relative;
+  line-height: 135%;
+  display: inline-block;
+  max-width: 100%;
+}
+.cs2gearshop-charges-a-commissi-wrapper9 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+  font-size: 16px;
+  color: #9a9a9a;
+}
+.container296 {
+  align-items: flex-start;
+  gap: 4px;
+}
+.background17,
+.container279,
+.container291,
+.container296 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.container291 {
+  border-radius: 8px;
+  align-items: flex-start;
+  gap: 16px;
+}
+.background17,
+.container279 {
+  box-sizing: border-box;
+}
+.container279 {
+  border-radius: 4px;
+  background-color: #181818;
+  align-items: flex-start;
+  padding: 64px 48px;
+  gap: 32px;
+}
+.background17 {
+  align-items: center;
+  padding: 0 24px 32px;
+  text-align: left;
+  font-size: 24px;
+  color: #fafafa;
+  font-family: Inter;
+}
+@media screen and (max-width: 1200px) {
+  .container279 {
+    padding: 42px 24px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 1050px) {
+  .container279 {
+    padding-top: 27px;
+    padding-bottom: 27px;
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 750px) {
+  .container279 {
+    gap: 16px;
+  }
+}
+@media screen and (max-width: 450px) {
+  .faqs1,
+  .heading20,
+  .heading21,
+  .heading22,
+  .heading23,
+  .heading24,
+  .heading25,
+  .heading26,
+  .heading27,
+  .heading28,
+  .heading29,
+  .heading30,
+  .heading31,
+  .heading32,
+  .heading33,
+  .heading34 {
+    font-size: 19px;
+    line-height: 23px;
+  }
+  .container279 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    box-sizing: border-box;
+  }
+}

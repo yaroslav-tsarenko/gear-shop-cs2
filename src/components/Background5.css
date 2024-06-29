@@ -1,0 +1,101 @@
+.container42,
+.fx140f-icon {
+  overflow: hidden;
+  flex-shrink: 0;
+}
+.fx140f-icon {
+  height: 120.4px;
+  width: 120.4px;
+  position: relative;
+  object-fit: cover;
+}
+.container42 {
+  height: 102px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 3px;
+  box-sizing: border-box;
+}
+.mw {
+  position: relative;
+  line-height: 18px;
+  display: inline-block;
+  min-width: 20px;
+}
+.container44 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-family: "Sofia Sans";
+}
+.jade {
+  position: relative;
+  letter-spacing: 0.02em;
+  line-height: 150%;
+  display: inline-block;
+  min-width: 35px;
+}
+.container45 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  font-size: 14px;
+  color: #615dfc;
+}
+.offers {
+  position: relative;
+  line-height: 22px;
+  display: inline-block;
+  min-width: 62px;
+}
+.container46 {
+  justify-content: flex-start;
+  font-size: 16px;
+  color: #fafafa;
+}
+.container43,
+.container46,
+.link2 {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.container43 {
+  align-self: stretch;
+  justify-content: flex-end;
+  padding: 0 66px 0 0;
+}
+.link2 {
+  flex: 1;
+  justify-content: flex-start;
+  padding: 0 0 1px;
+}
+.background1,
+.container41 {
+  display: flex;
+  justify-content: center;
+}
+.container41 {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: center;
+}
+.background1 {
+  flex: 1;
+  border-radius: 4px;
+  background-color: #303030;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0 12px 12px;
+  box-sizing: border-box;
+  min-width: 149px;
+  max-width: 152px;
+  text-align: left;
+  font-size: 12px;
+  color: #9a9a9a;
+  font-family: Inter;
+}
